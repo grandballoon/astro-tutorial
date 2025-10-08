@@ -9,6 +9,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.14.1"
+    "@astrojs/netlify": "^6.5.11",
+    "@astrojs/preact": "^4.1.1",
+    "@astrojs/rss": "^4.0.12",
+    "@astrojs/svelte": "^7.2.0",
+    "astro": "^5.14.1",
+    "preact": "^10.27.2",
+    "svelte": "^5.39.11",
+    "typescript": "^5.9.3"
   }
 }
